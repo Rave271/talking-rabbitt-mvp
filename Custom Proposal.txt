@@ -1,11 +1,11 @@
-Talking Rabbitt – Executive Proposal for Zomato
+DataWhisperer – Executive Proposal for Zomato
 Conversational Intelligence for Real-Time Business Insights
 
 Overview
 
 Zomato operates in a highly dynamic marketplace where real-time insights into order volume, restaurant performance, customer behavior, and regional demand are critical for decision-making. However, traditional analytics dashboards require manual exploration and analyst support, which slows down leadership teams when quick decisions are needed.
 
-Talking Rabbitt introduces a conversational intelligence layer on top of Zomato’s existing data infrastructure. Instead of navigating dashboards or requesting reports from analysts, executives and operations managers can ask natural language questions and receive instant answers with automated visualizations.
+DataWhisperer introduces a conversational intelligence layer on top of Zomato's existing data infrastructure. Instead of navigating dashboards or requesting reports from analysts, executives and operations managers can ask natural language questions and receive instant answers with automated visualizations.
 
 Business Problem
 
@@ -19,15 +19,15 @@ Currently, answering these questions often requires navigating multiple dashboar
 
 Proposed Solution
 
-Talking Rabbitt integrates directly with Zomato’s internal data sources such as sales databases, order systems, and analytics warehouses. It enables users to interact with business data through natural language queries.
+DataWhisperer integrates directly with Zomato's internal data sources such as sales databases, order systems, and analytics warehouses. It enables users to interact with business data through natural language queries.
 
 Example interaction:
 
 User question:
-“Which city generated the highest order revenue this week?”
+"Which city generated the highest order revenue this week?"
 
 System response:
-Talking Rabbitt analyzes the dataset and instantly returns the answer along with an automatically generated visualization showing revenue by region.
+DataWhisperer analyzes the dataset and instantly returns the answer along with an automatically generated visualization showing revenue by region.
 
 Key Capabilities
 
@@ -41,19 +41,19 @@ Automated Visualization
 The system automatically generates charts and trend lines to provide visual context for answers.
 
 Lightweight Integration
-Talking Rabbitt acts as a layer on top of Zomato’s existing analytics infrastructure and does not replace existing BI tools.
+DataWhisperer acts as a layer on top of Zomato's existing analytics infrastructure and does not replace existing BI tools.
 
 Business Impact
 
-Implementing Talking Rabbitt would deliver measurable benefits for Zomato:
+Implementing DataWhisperer would deliver measurable benefits for Zomato:
 
 * Faster operational decision-making across regional teams
 * Reduced dependency on manual reporting and analyst workflows
 * Improved visibility into sales, demand patterns, and operational performance
 * Increased agility in responding to market trends and customer behavior
 
-By enabling leadership teams to simply “talk to their data,” Talking Rabbitt transforms business analytics from a manual process into a real-time conversation.
+By enabling leadership teams to simply "talk to their data," DataWhisperer transforms business analytics from a manual process into a real-time conversation.
 
 Conclusion
 
-Talking Rabbitt represents the next evolution of business intelligence at Zomato. By combining conversational AI with automated analytics, it empowers executives to access insights instantly, accelerating strategic and operational decision-making across the organization.
+DataWhisperer represents the next evolution of business intelligence at Zomato. By combining conversational AI with automated analytics, it empowers executives to access insights instantly, accelerating strategic and operational decision-making across the organization.

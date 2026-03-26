@@ -3,9 +3,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from groq import Groq
 
-st.set_page_config(page_title="Talking Rabbitt", layout="wide")
+st.set_page_config(page_title="DataWhisperer", layout="wide")
 
-st.title("🐰 Talking Rabbitt")
+st.title("💬 DataWhisperer")
 st.subheader("Conversational Intelligence for Business Data")
 
 # Groq client

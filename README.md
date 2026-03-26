@@ -1,6 +1,6 @@
-# Talking Rabbitt – Conversational Business Intelligence
+# DataWhisperer – Conversational Business Intelligence
 
-Talking Rabbitt is a conversational analytics prototype that allows users to interact with business data using natural language. Instead of navigating complex dashboards, users can simply ask questions about their data and receive instant insights along with automated visualizations.
+DataWhisperer is a conversational analytics prototype that allows users to interact with business data using natural language. Instead of navigating complex dashboards, users can simply ask questions about their data and receive instant insights along with automated visualizations.
 
 This project was developed as part of the **AI Product Manager Challenge**, demonstrating how conversational AI can transform traditional business intelligence workflows.
 
@@ -10,7 +10,7 @@ This project was developed as part of the **AI Product Manager Challenge**, demo
 
 Traditional BI tools such as PowerBI and Tableau require users to manually explore dashboards and filters to extract insights. This creates friction for business leaders who need quick answers for decision-making.
 
-Talking Rabbitt introduces a **Conversational Query Layer** on top of enterprise data. Users upload a dataset and ask questions in natural language. The system uses an LLM to convert the question into a data query, analyze the dataset, and return a clear answer along with a visualization.
+DataWhisperer introduces a **Conversational Query Layer** on top of enterprise data. Users upload a dataset and ask questions in natural language. The system uses an LLM to convert the question into a data query, analyze the dataset, and return a clear answer along with a visualization.
 
 This demonstrates the "Magic Moment" where a 10-minute manual Excel analysis can be replaced with a 5-second conversation.
 
@@ -81,7 +81,7 @@ Streamlit Cloud
 ## Project Structure
 
 ```
-talking-rabbitt-mvp
+datawhisperer-mvp
 │
 ├── app.py                 # Streamlit application
 ├── requirements.txt       # Python dependencies
